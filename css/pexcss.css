@@ -1,0 +1,271 @@
+.clear {
+	clear: both;
+}
+
+.hero {
+	background-image: url(../img/rocks.png);
+	background-position: center center;
+	background-size: cover;
+	height: auto;
+	color: #ffffff;
+
+}
+
+nav {
+	height: 110px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+
+	color: #ffffff;
+	font-size: 13px;
+	line-height: 40px;
+	padding-right: 20px;
+	padding-left: 20px;
+	-webkit-transition: all 0.4s ease;
+	transition: all 0.4s ease;
+
+}
+
+.navbar ul {
+	margin-left: 250px;
+
+}
+
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .navbar-nav .nav-link:focus {
+	background-color: #fff;
+	color: #16aeca;
+	-webkit-transition: all 0.4s ease;
+	transition: all 0.5s ease;
+}
+
+.navbar-brand img {
+	width: 100%;
+	height: auto;
+	-webkit-transition: all 0.4s ease;
+	transition: all 0.4s ease;
+}
+
+.hero p {
+	font-size: 50px;
+	text-align: right
+}
+
+.hero .content {
+	margin: 200px 0;
+}
+
+.hero .start {
+	display: inline-block;
+	width: 280px;
+	;
+	height: 60px;
+	text-align: center;
+	background: #8824cd;
+	border-radius: 30px;
+	font-size: 18px;
+	line-height: 60px;
+	color: white;
+	text-decoration: none;
+	margin-bottom: 20px;
+}
+
+.hero span {
+	display: block;
+}
+
+.hero .right {
+	float: right;
+}
+
+.features {
+	background-color: #2e3b4e;
+	color: #ffffff;
+	padding-bottom: 135px;
+	padding-top: 85px;
+}
+
+.features .spaces {
+	margin-bottom: 60px;
+}
+
+.features .spaces:last-of-type {
+	margin-bottom: 0px;
+}
+
+.features h2 {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.features p,
+.pinkBack p {
+	font-size: 15px;
+}
+
+.pinkBack {
+	background-image: url(../img/pink.png);
+	background-position: center center;
+	background-size: cover;
+	height: auto;
+	color: #ffffff;
+	text-align: center;
+	padding-top: 150px;
+	padding-bottom: 190px;
+}
+
+.pinkBack h2 {
+	font-size: 35px;
+	margin-bottom: 20px;
+}
+
+.centric {
+	width: 50%;
+	margin: 0 auto;
+}
+
+.pinkBack a {
+	display: inline-block;
+	width: 340px;
+	height: 70px;
+	border-radius: 30px;
+	background: #ffffff;
+	color: #d54c63;
+	text-decoration: none;
+	line-height: 70px;
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: 30px;
+}
+
+.undefined {
+	text-align: left;
+	height: auto;
+}
+
+.undefined .removeMar {
+	margin: 0;
+	padding: 0;
+}
+
+.undefContent {
+	padding-top: 90px;
+	padding-bottom: 130px;
+	padding-left: 100px;
+	padding-right: 70px;
+}
+
+.imgResize {
+	max-width: 100%;
+	min-width: 100%;
+	max-height: 100%;
+	min-height: 100%;
+
+}
+
+.rush {
+	background-image: url(../img/valley.png);
+	background-position: center center;
+	background-size: cover;
+	height: auto;
+	color: #ffffff;
+    text-align: center;
+	
+
+}
+
+.rush .overlay {
+	background-color: rgba(77, 32, 93, 0.6);
+padding-top: 195px;
+	padding-bottom: 115px;
+}
+
+.rush .conentStyle h2 {
+	font-size: 40px;
+}
+
+.rush .conentStyle p {
+
+	font-size: 20px;
+	color: #a87bb7;
+	padding-bottom: 33px;
+	padding-top: 33px;
+}
+.rush .conentStyle a {
+	display: inline-block;
+	width: 280px;
+	height: 63px;
+	border-radius: 30px;
+	background: #8824cd;
+	color: #ffffff;
+	text-decoration: none;
+	line-height: 63px;
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 15px;
+}
+.rush .conentStyle span {
+	display: block;
+	font-size: 12px;
+}
+
+
+
+
+.author {
+	background-image: url(../img/yumy.png);
+	background-position: center center;
+	background-size: cover;
+	height: auto;
+	color: #ffffff;
+	padding-top: 355px;
+	padding-bottom: 88px;
+
+
+
+}
+
+.author a {
+	display: inline-block;
+	width: 140px;
+	height: 43px;
+	border: 1px solid #ffffff;
+	border-radius: 30px;
+	font-size: 13px;
+	line-height: 43px;
+	text-decoration: none;
+	color: #ffffff;
+	text-align: center;
+	margin-bottom: 38px;
+}
+
+.author p {
+	font-size: 40px;
+	margin-bottom: 35px;
+}
+
+.author {
+	font-size: 13px;
+}
+footer{
+	background: #2e3b4e;
+	color: #ffffff;
+	padding: 50px;
+	text-align: center;
+}
+footer .social ul{
+	list-style-type: none;
+	padding: 0;
+}
+footer .social ul li{
+	display: inline-block;
+}
+footer .social ul li a{
+	color: #ffffff;
+	font-size: 20px;
+	margin-right: 20px;
+}
+footer .social ul li a:hover{
+	color:pink;
+}
