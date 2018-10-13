@@ -1,4 +1,4 @@
-# Pex
-# url: https://rihamzeyad.github.io/Pex/index.html
-# source: https://freebiesbug.com/psd-freebies/pex-free-website-template/
+### Pex
+#### URL: https://rihamzeyad.github.io/Pex/index.html
+#### Source: https://freebiesbug.com/psd-freebies/pex-free-website-template/
 
